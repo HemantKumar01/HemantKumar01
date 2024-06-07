@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ytbhemant@gmail.com**
 
-- ⚡ Fun fact **You read it completely (it's just a filled template lol)**
+- ⚡ Fun fact **it's just a filled template lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
