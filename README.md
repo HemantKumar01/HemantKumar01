@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar01" /> </p>
 
-- 🔭 I’m currently working on **several hackathons creating revolutionary solutions**
+- 🔭 I’m currently working on **some hackathons creating crazy solutions**
 
 - 🌱 I’m currently learning **GenAI integrations, Google Cloud, Blockchain**
 
