@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HemantKumar01/HemantKumar01/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HemantKumar01/HemantKumar01/refs/heads/main/output/snake.svg" alt="Snake animation" />
 
 ###
