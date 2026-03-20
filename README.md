@@ -15,12 +15,18 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
-<a href="https://hemantk.me">https://hemantk.me</a>
+<a href="https://trxnd.io" target="_blank">https://trxnd.io</a> <br>
+<a href="https://hemantk.me" target="_blank">https://hemantk.me</a>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Hemant from India<br><br>- 🔭 I’m currently a student at IIT Patna<br>- 📚 I'm currently learning Deep Learning and ML<br>- ⚡ In my free time I love to watch movies</p>
+<p align="left">I'm Hemant<br>
+  <br>📔 CS undergrad at IIT Patna, India
+  <br>⚡ Core contributor of <a href="https://github.com/droidrun/droidrun/">droidrun</a> ($2.5M pre seed, 8K stars on Github).
+  <br>🔥 Building trxnd.io to take over your content creation and GTM team end to end.
+  <br>🐝 In my free time I like to touch grass.
+  <br>⏩ Doubling down on everything AI and building fast.
 
 ###
 
