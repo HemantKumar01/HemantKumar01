@@ -22,9 +22,10 @@
 ###
 
 <p align="left">I'm Hemant<br>
-  <br>📔 CS undergrad at IIT Patna, India
+  <br>🏛 Goldman Sachs Summer Analyst 2026
+  <br>📔 CSE'27 IIT Patna, India
   <br>⚡ Core contributor of <a href="https://github.com/droidrun/droidrun/">droidrun</a> ($2.5M pre seed, 8K stars on Github).
-  <br>🔥 Building trxnd.io to take over your content creation and GTM team end to end.
+  <br>🔥 Founder agentdevice.cloud and trxnd.io 
   <br>🐝 In my free time I like to touch grass.
   <br>⏩ Doubling down on everything AI and building fast.
 
