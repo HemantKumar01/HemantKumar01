@@ -15,8 +15,10 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
-<a href="https://trxnd.io" target="_blank">https://trxnd.io</a> <br>
 <a href="https://hemantk.me" target="_blank">https://hemantk.me</a>
+
+[https://www.linkedin.com/in/hemant-kumar-a6ba8815a/](https://www.linkedin.com/in/hemant-kumar-a6ba8815a/)
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
